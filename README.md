@@ -4,10 +4,10 @@ A modern React application that generates random colors in both HEX and RGB form
 
 ## ✨ Live Demo
 
-[View Live Demo](https://your-username.github.io/your-repo-name) <!-- Replace with your actual URL -->
+[View Live Demo](https://Quisly.github.io/Random-Color-Generator/) <!-- Replace with your actual URL -->
 
 ## 📋 Features
-
+(
 - 🎲 **Random Color Generation** - Generate unique colors with one click
 - 🔄 **Format Toggle** - Switch seamlessly between HEX and RGB formats
 - 🎯 **Live Preview** - Background updates instantly with generated color
