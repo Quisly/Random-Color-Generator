@@ -1,0 +1,13 @@
+@import "tailwindcss/preflight";
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+}
+
+:root {
+  color-scheme: dark;
+}

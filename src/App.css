@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  gap: 0.3vmin;
+  justify-content: center;
+  background-color: rgb(0, 0, 0);
+  height: 100svh;
+}
+
+button {
+  height: 8vmin;
+  background-color: rgb(89, 164, 229);
+  border: 2px solid;
+  border-radius: 2vmin;
+  font-size: 3vmin;
+  font-family: cursive;
+  padding: 1vmin;
+  cursor: pointer;
+}
+
+.color-value {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: aliceblue;
+  font-size: 7vmin;
+  text-wrap: nowrap;
+}
